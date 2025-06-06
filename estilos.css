@@ -16,7 +16,7 @@ body {
   
   header {
     grid-area: header;
-    background-color: #6dbd74;
+    background-color: #55d460;
     color: white;
     padding: 1rem 2rem;
     display: flex;
@@ -58,7 +58,7 @@ body {
   
   .hero-text h2 {
     font-size: 2.5rem;
-    color: #388e3c;
+    color: #55d460;
   }
   
   .hero-text p {
@@ -78,7 +78,7 @@ body {
   }
   
   .sobre h2 {
-    color: #2e7d32;
+    color: #55d460;
     margin-bottom: 1rem;
   }
   
@@ -118,7 +118,7 @@ body {
   
   .producto button {
     margin-top: 1rem;
-    background-color: #4caf50;
+    background-color: #55d460;
     color: white;
     border: none;
     padding: 0.5rem 1rem;
@@ -127,7 +127,7 @@ body {
   }
   
   .producto button:hover {
-    background-color: #388e3c;
+    background-color: #55d460;
   }
   
   .comparacion table {
@@ -169,13 +169,13 @@ body {
   }
   
   input:focus, textarea:focus {
-    border-color: #4caf50;
+    border-color: #55d460;
     outline: none;
   }
   
   button[type="submit"] {
     width: fit-content;
-    background-color: #6dbd74;
+    background-color: #55d460;
     color: white;
     border: none;
     padding: 0.6rem 1.2rem;
@@ -184,12 +184,12 @@ body {
   }
   
   button[type="submit"]:hover {
-    background-color: #388e3c;
+    background-color: #55d460;
   }
   
   footer {
     grid-area: footer;
-    background-color: #4caf50;
+    background-color: #55d460;
     color: white;
     text-align: center;
     padding: 2rem 1rem;
